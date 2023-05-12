@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I have 15+ years of experience in software products design and development.
+- 🔭 I have more than a decade of experience in software products design and development.
 - 🌱 I’m currently learning Django Rest Framework and React JS.
-- 👯 I’m looking to collaborate on Django and React.
+- 👯 I’m looking to collaborate on building the future technologies, such as, Web3.
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about - "Technology, Philosophy, and Life !"
 - 📫 How to reach me: kk.engineer@gmail.com
