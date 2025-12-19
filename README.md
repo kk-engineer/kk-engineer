@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I have more than a decade of experience in software products design and development.
-- 💬 Ask me about - "Technology, Philosophy, and Life !"
+- 🔭 Building RoboSathi (robosathi.com) - An AI & ML Learning platform.
+- 💬 Ask me about - "AI, ML,Technology, Philosophy, and Life !"
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kk-engineer/)
 - ⚡ Fun fact: I can influence your perception of life and reality.
 
