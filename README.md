@@ -1,7 +1,7 @@
 # 💫 About Me:
+- 📘 After leading large-scale engineering teams years, I transitioned deeply into AI engineering and now focus on production-grade agentic AI systems.
 - 🔭 Building [RoboSathi](https://robosathi.com/) - An AI & ML Learning platform.
 - 💬 Ask me about - "AI, ML, Technology, Philosophy, and Life !"
-- ⚡ Fun fact: I can influence your perception of life and reality.
 
 
 ## 🌐 Socials:
