@@ -16,15 +16,15 @@
 # 💻 Tech Stack
 
 ### 🧠 AI & Machine Learning
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-007ACC?style=for-the-badge&logo=google-cloud&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FFD700?style=for-the-badge&logo=openai&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![SFT / RLHF](https://img.shields.io/badge/SFT%20%2F%20RLHF-FF69B4?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FFD700?style=for-the-badge&logo=openai&logoColor=black)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-007ACC?style=for-the-badge&logo=google-cloud&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
-![SFT / RLHF](https://img.shields.io/badge/SFT%20%2F%20RLHF-FF69B4?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge)
 
 ### 🚀 Languages & Core Engineering
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
